@@ -1,1 +1,1 @@
-![Header](./readme-heading.png)
+![Header](./readme-heading.svg)
