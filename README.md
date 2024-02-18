@@ -1,7 +1,11 @@
 ![Header](./readme-heading.svg)
 
-<!-- [![telegram](./tg.svg | width=228)](https://t.me/tsqrt)
+<p align="center">
+  <a href="https://t.me/tsqrt">
+    <img src="./tg.svg"/></a>
+  <a href="https://glivera-team.com//">
+    <img src="./gt.svg"/></a>
+  <a href="https://www.upwork.com/freelancers/~014cb9bcb0d9303d40?s=1110580755057594368">
+    <img src="./upwork.svg"/></a>
+</p>
 
-[![GliveraTeam](./gt.svg | width=228)](https://glivera-team.com/)
-
-[![Upwork](./upwork.svg | width=228)](https://www.upwork.com/freelancers/~014cb9bcb0d9303d40?s=1110580755057594368) -->
